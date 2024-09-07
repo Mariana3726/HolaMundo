@@ -1,4 +1,3 @@
 # HolaMundo
-mi primer repositorio en Git Hub
-i love 🍨 , 🍕 , 🐈 , 🚗
-1234
+**Mi primer repositorio en GitHub**
+_I love 🍨 , 🍕 , 🐈 , 🚗_
